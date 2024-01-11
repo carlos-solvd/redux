@@ -1,7 +1,7 @@
 import { MessageCircle } from 'lucide-react'
 import { Header } from '../components/Header'
-import { Video } from './Video'
-import { Module } from './Module'
+import { Video } from '../components/Video'
+import { Module } from '../components/Module'
 
 export function Player() {
     return (
